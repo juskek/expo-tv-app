@@ -9,6 +9,12 @@
       ]
     ],
     "name": "expo-tv-app",
-    "slug": "expo-tv-app"
+    "slug": "expo-tv-app",
+    "android": {
+      "package": "com.anonymous.expotvapp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.anonymous.expotvapp"
+    }
   }
 }
